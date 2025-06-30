@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Klasifikasi Penyakit Daun Tomat
 
 Proyek ini merupakan implementasi model deep learning untuk **mendeteksi dan mengklasifikasi penyakit daun tomat** menggunakan **Convolutional Neural Network (CNN)**. Dataset yang digunakan berasal dari Kaggle dan telah dimodifikasi menjadi tiga subset: `train`, `validation`, dan `test`.
@@ -114,3 +115,7 @@ F1-score Macro	0.91
     Macro avg:                                  0.91      0.91      0.91      1000
     Weighted avg:                               0.91      0.91      0.91      1000
 
+=======
+# Proyek-Klasifikasi-Gambar
+Submission kelas Belajar Fundamental Deep Learning (Laskar AI &amp; Dicoding)
+>>>>>>> 381e08c7d6be74e595672a407cecf765f3788372
